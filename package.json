@@ -1,6 +1,6 @@
 {
   "name": "nvm-now",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Making it easier to install nvm!",
   "license": "MIT",
   "repository": "hemanth/nvm-now",
